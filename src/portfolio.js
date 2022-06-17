@@ -7,7 +7,7 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
+  title: "Raman Hathidara",
   logo_name: "AshutoshHathidara",
   nickname: "layman_brother",
   subTitle:
